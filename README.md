@@ -1,1 +1,1 @@
-# TheJosephusProblem
+# the-josephus-problem
