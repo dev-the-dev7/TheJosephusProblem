@@ -7,13 +7,9 @@ import java.util.Scanner;
  ***Class Name: TheJosephusProblem
  ***Author: Devin Vella
  ****************************
- ***Purpose: The purpose of this class is to allow the user to create a language
- ***consisting of the letters a and b by utilizing deterministic finite automation. 
- ***It does this by allowing the user to set the initial state, accepting state, 
- ***and the rule used to change states. The user can then test if a word is 
- ***accepted by the rules they set.
+***Purpose: The purpose of this class is to create a tool to solve the Josephus problem. 
  **************************** 
- ***Date: 3/20/2019
+ ***Date: 12/3/2018
  ****************************/
 public class TheJosephusProblem 
 {
